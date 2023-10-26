@@ -1,7 +1,7 @@
 hi, i'm Alex Bukhmirov, a passionate <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank">Turing</a> taught developer with a passion for clean code and learning new development techniques!
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ 
   
 - 💼 any freelance work? do reach, [email](mailto:alexbukhmirov@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
