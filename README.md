@@ -5,7 +5,7 @@ hi, i'm Alex Bukhmirov, a passionate <a href="https://turing.edu/" target="_blan
  
  
   
-- 💼 Looking for work! Do rach out to my [email](mailto:alexbukhmirov@gmail.com) or my  <a href="www.linkedin.com/in/alex-bukhmirov" target="_blank">LinkedIn</a>
+- 💼 Looking for work! Do rach out to my [email](mailto:alexbukhmirov@gmail.com) or my  <a href="www.linkedin.com/in/alex-bukhmirov/" target="_blank">LinkedIn</a>
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
