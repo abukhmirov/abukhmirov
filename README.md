@@ -12,6 +12,9 @@ hi, i'm Alex Bukhmirov, a passionate <a href="https://www.buymeacoffee.com/abhis
 
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,js,html,css,cs,discord,dotnet,git,github,linkedin,postgres,postman,replit,unity,unreal,visualstudio,)](https://skillicons.dev)
 
+--------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+--------
 
 Project I'm proud of:
 [TasteBuddies](https://github.com/abukhmirov/TasteBuddies)
